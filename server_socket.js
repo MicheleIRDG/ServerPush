@@ -60,3 +60,5 @@ io_rapporto_audit.on('connection', (socket) => {
 server.listen(3000, () => {
   console.log('Server Socket Suite listening on :3000');
 });
+
+module.exports = app;
