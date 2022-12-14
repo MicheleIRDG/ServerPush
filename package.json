@@ -4,6 +4,7 @@
   "description": "Server Socket Suite",
   "main": "server_socket.js",
   "scripts": {
+    "build": "npm install"
     "start": "node server_socket.js"
   },
   "author": "",
