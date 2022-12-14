@@ -4,7 +4,7 @@
   "description": "Server Socket Suite",
   "main": "server_socket.js",
   "scripts": {
-    "start": "echo \"server partito\""
+    "start": "node server_socket.js"
   },
   "author": "",
   "license": "ISC",
